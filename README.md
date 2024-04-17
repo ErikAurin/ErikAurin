@@ -1,4 +1,4 @@
-### Erik Aurín
+# Erik Aurín
 
 
 ## Certificado en Elements of IA DE MinnaLearn
