@@ -1,8 +1,8 @@
 ### Erik Aurín
 
 
-##Certificado en Elements of IA DE MinnaLearn
-##Certificado de NetworkAcademy introduccion a ciberseguridad.
+## Certificado en Elements of IA DE MinnaLearn
+## Certificado de NetworkAcademy introduccion a ciberseguridad.
 <!--
 **ErikAurin/ErikAurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
